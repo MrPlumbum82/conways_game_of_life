@@ -1,8 +1,7 @@
 # Conways Game of Life
+This is a cellular automaton devised by the British mathematician John Horton Conway in 1970 written in java.
 
 ![screenshot](https://cloud.githubusercontent.com/assets/11234396/18334166/bca1ed18-758e-11e6-807b-70389880f07b.png)
-
-This is a cellular automaton devised by the British mathematician John Horton Conway in 1970 written in java.
 
 ## Requirements:
 1. Install Netbeans for your Operating System
