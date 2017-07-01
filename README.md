@@ -10,7 +10,7 @@ This is a cellular automaton devised by the British mathematician John Horton Co
 ## How to run:
 1. Clone the repository.
 ```bash
-  git clone https://github.com/MrPlumbum82/conways_game_of_life/edit/master/README.md
+  git clone https://github.com/MrPlumbum82/conways_game_of_life.git
 ```
 2. Open folder GameOfLive in Netbeans.
 3. Execute project.
