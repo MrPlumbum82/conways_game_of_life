@@ -14,3 +14,11 @@ This is a cellular automaton devised by the British mathematician John Horton Co
 ```
 2. Open folder GameOfLive in Netbeans.
 3. Execute project.
+
+## (Optional) Run in terminal:
+```bash
+  sudo apt-get install ant
+  ant compile
+  ant jar
+```
+
